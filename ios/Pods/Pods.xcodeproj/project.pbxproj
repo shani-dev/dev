@@ -17634,7 +17634,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6FEFA0DE13251D2079A3D3114095376E /* Build configuration list for PBXNativeTarget "Pods-Dotpay" */ = {
+		6FEFA0DE13251D2079A3D3114095376E /* Build configuration list for PBXNativeTarget "Pods-DotPay" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9ED49DB2505DEAACF121F2C3FE84ED28 /* Debug */,
