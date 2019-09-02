@@ -552,7 +552,7 @@ class VerifyPhone extends Component {
 						  <View style={{
 						  	marginTop: 15
 						  }}>
-						  	<Text style={{ textAlign: 'center' }}>You can request new code until this timeout {this.state.timer}</Text>
+						  	<Text numberOfLines={5} style={{textSize:'12px', textAlign: 'center' }}>Please wait {this.state.timer} seconds before requesting a new one.</Text>
 						  </View>
 				  	)}
 
