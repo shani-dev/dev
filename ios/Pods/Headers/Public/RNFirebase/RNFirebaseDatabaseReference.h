@@ -1,1 +1,0 @@
-../../../../../node_modules/react-native-firebase/iOS/RNFirebase/database/RNFirebaseDatabaseReference.h

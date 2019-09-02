@@ -1,1 +1,0 @@
-../../../../../node_modules/react-native-firebase/iOS/RNFirebase/fabric/crashlytics/RNFirebaseCrashlytics.h
