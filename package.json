@@ -16,7 +16,7 @@
     "path": "^0.12.7",
     "prop-types": "^15.7.2",
     "react": "16.6.3",
-    "react-native": "^0.60.5",
+    "react-native": "^0.60.6",
     "react-native-android-sms-listener": "^0.6.0",
     "react-native-bottom-action-sheet": "^0.0.20",
     "react-native-btr": "^1.1.4",
